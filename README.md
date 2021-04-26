@@ -1,4 +1,4 @@
-# Advance-Statistics
+# Advanced Statistics
 
 
 ### Project 3: Advance Statistics:  ANOVA, PCA, EDA
